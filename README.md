@@ -11,5 +11,5 @@ Currently exploring new projects and ideas.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)  
-
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)  
 *"The story we all make come true."* 🌟  
